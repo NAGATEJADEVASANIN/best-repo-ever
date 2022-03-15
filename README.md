@@ -6,7 +6,7 @@ Hi all i'm new to Git Hub
 added new
 git checkout -b new-branch-1
 
-
+Nothing need change here 
 nothing to change any code in copy branch 
 <!-- new edit from main branch  -->
 
